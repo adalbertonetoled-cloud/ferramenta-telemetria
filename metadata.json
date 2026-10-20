@@ -1,0 +1,6 @@
+{
+  "name": "Extrator de Pernoite",
+  "description": "Extrator de informações de pernoite e telemetria para Excel a partir de prints de monitoramento de frota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
